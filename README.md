@@ -12,17 +12,17 @@ The goal is to generate clear, actionable insights to support decision-making.
 ## Key Questions (KPIs)
 This analysis focuses on answering:
 
-📈 How do sales change over time? (Monthly & yearly trend)
+- How do sales change over time? (Monthly & yearly trend)
 
-🛍 Which categories generate the highest revenue?
+- Which categories generate the highest revenue?
 
-🌎 Which regions perform best?
+- Which regions perform best?
 
-⭐ What are the top 5 best-selling products?
+- What are the top 5 best-selling products?
 
-📅 Are there any seasonal patterns?
+- Are there any seasonal patterns?
 
-Dashboard Interaction <a href="https://onedrive.live.com/personal/4ef0d6a9206b1dbd/_layouts/15/doc.aspx?resid=7f6e1964-0ebd-4ae5-adea-3343093fa594&cid=4ef0d6a9206b1dbd"> View Dashboard</a>
+- Dashboard Interaction <a href="https://onedrive.live.com/personal/4ef0d6a9206b1dbd/_layouts/15/doc.aspx?resid=7f6e1964-0ebd-4ae5-adea-3343093fa594&cid=4ef0d6a9206b1dbd"> View Dashboard</a>
 
 
 These KPIs reveal business strengths and opportunities.
