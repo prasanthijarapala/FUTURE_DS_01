@@ -1,8 +1,9 @@
-# Business Sales Performance Analytics
+# Business Sales Performance Analytics Task - 1
 
 
 ## Project Objective
 To analyze four years of SuperStore sales data (2011–2014) and build an interactive Excel dashboard that answers key business performance questions such as revenue trends, top categories, high-performing regions, and best-selling products.
+
 The goal is to generate clear, actionable insights to support decision-making.
 
 ## Dataset Used
@@ -10,6 +11,7 @@ https://onedrive.live.com/personal/4ef0d6a9206b1dbd/_layouts/15/doc.aspx?resid=7
 
 ## Key Questions (KPIs)
 This analysis focuses on answering:
+
 📈 How do sales change over time? (Monthly & yearly trend)
 🛍 Which categories generate the highest revenue?
 🌎 Which regions perform best?
