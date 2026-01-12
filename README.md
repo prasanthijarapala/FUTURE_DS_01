@@ -7,7 +7,7 @@ To analyze four years of SuperStore sales data (2011–2014) and build an intera
 The goal is to generate clear, actionable insights to support decision-making.
 
 ## Dataset Used
-https://onedrive.live.com/personal/4ef0d6a9206b1dbd/_layouts/15/doc.aspx?resid=7f6e1964-0ebd-4ae5-adea-3343093fa594&cid=4ef0d6a9206b1dbd
+- <a href="https://onedrive.live.com/personal/4ef0d6a9206b1dbd/_layouts/15/doc.aspx?resid=7f6e1964-0ebd-4ae5-adea-3343093fa594&cid=4ef0d6a9206b1dbd"> SuperStore Sales Data</a>
 
 ## Key Questions (KPIs)
 This analysis focuses on answering:
@@ -23,4 +23,6 @@ This analysis focuses on answering:
 📅 Are there any seasonal patterns?
 
 These KPIs reveal business strengths and opportunities.
+
+## Dashboard
 
