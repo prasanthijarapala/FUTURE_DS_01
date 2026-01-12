@@ -13,9 +13,14 @@ https://onedrive.live.com/personal/4ef0d6a9206b1dbd/_layouts/15/doc.aspx?resid=7
 This analysis focuses on answering:
 
 📈 How do sales change over time? (Monthly & yearly trend)
+
 🛍 Which categories generate the highest revenue?
+
 🌎 Which regions perform best?
+
 ⭐ What are the top 5 best-selling products?
+
 📅 Are there any seasonal patterns?
+
 These KPIs reveal business strengths and opportunities.
 
