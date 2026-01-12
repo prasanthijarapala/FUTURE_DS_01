@@ -22,11 +22,14 @@ This analysis focuses on answering:
 
 📅 Are there any seasonal patterns?
 
+Dashboard Interaction <a href="https://onedrive.live.com/personal/4ef0d6a9206b1dbd/_layouts/15/doc.aspx?resid=7f6e1964-0ebd-4ae5-adea-3343093fa594&cid=4ef0d6a9206b1dbd"> View Dashboard</a>
+
+
 These KPIs reveal business strengths and opportunities.
 
 ## Process (Step-by-Step)
 
-- ## Step 1: Data Cleaning
+## Step 1: Data Cleaning
 
 - Removed inconsistencies
 
@@ -49,4 +52,30 @@ These KPIs reveal business strengths and opportunities.
 - Added interactive slicers (Year, Category, Region)
 
 - Organized visuals into a user-friendly layout
+
+## Dashboard
+
+<img width="2772" height="1128" alt="image" src="https://github.com/user-attachments/assets/0b1b9503-ca8d-4f55-b294-f53ed59d47a1" />
+
+ ## Key Insights (What the Data Reveals)
+
+💼 Technology is the highest revenue-generating category (₹836K)
+
+🌍 West and East regions lead in total sales
+
+📅 Sales consistently peak in Nov–Dec, showing seasonal demand
+
+📊 2014 recorded the strongest yearly performance
+
+⭐ Top product contributed ₹61,600 revenue
+
+📈 Sales show steady year-over-year growth
+
+These insights highlight strong product categories, seasonal behavior, and high-potential regions.
+
+## Conclusion
+
+This project demonstrates how business performance can be effectively analyzed using Excel dashboards.
+The insights derived highlight clear growth opportunities and help support strategic decisions such as focusing on high-performing categories and regions.
+This task strengthened my skills in data cleaning, visualization, pivot analysis, and business storytelling.
 
