@@ -24,5 +24,29 @@ This analysis focuses on answering:
 
 These KPIs reveal business strengths and opportunities.
 
-## Dashboard
+## Process (Step-by-Step)
+
+- ## Step 1: Data Cleaning
+
+- Removed inconsistencies
+
+- Standardized date formats
+
+- Added new columns (Order Year, Month Name)
+
+## Step 2: Data Preparation
+
+- Converted data to Excel table
+
+- Created pivot tables for each KPI
+
+- Applied sorting, filters, and grouping
+
+## Step 3: Dashboard Development
+
+- Built charts for trends, categories, regions, and products
+
+- Added interactive slicers (Year, Category, Region)
+
+- Organized visuals into a user-friendly layout
 
